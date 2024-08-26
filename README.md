@@ -1,4 +1,4 @@
-Sobre Mí:
+Sobre Mí
 
 Soy un Desarrollador Full Stack con una formación sólida y en constante crecimiento. Comencé mi carrera en programación en 2023 a través de Platzi, donde adquirí una base sólida en HTML, CSS y JavaScript. Actualmente, estoy profundizando mis conocimientos en Henry, donde estoy mejorando mis habilidades en tecnologías como React, Node.js, PostgreSQL, Axios y Express.
 
