@@ -19,7 +19,7 @@ Puedes explorar el proyecto aquí: [WebAdminISP](https://github.com/WebAdminISP)
 
 ## Habilidades Técnicas
 - **Frontend:** HTML, CSS, JavaScript, React, Redux
-- **Backend:** Node.js, Express, Nest.js
+- **Backend:** Node.js, Express
 - **Bases de Datos:** PostgreSQL
 - **Herramientas:** Axios, TypeOrm, Git
 
