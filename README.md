@@ -18,8 +18,8 @@ He participado en la creación de **WebAdminISP**, una aplicación diseñada par
 Puedes explorar el proyecto aquí: [WebAdminISP](https://github.com/WebAdminISP)
 
 ## Habilidades Técnicas
-- **Frontend:** HTML, CSS, JavaScript, React, Redux
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js, Redux
 - **Backend:** Node.js, Express
 - **Bases de Datos:** PostgreSQL
-- **Herramientas:** Axios, TypeOrm, Git
+- **Herramientas:** Axios, TypeOrm, Git, Trello
 
