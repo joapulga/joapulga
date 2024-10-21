@@ -15,7 +15,7 @@ He participado en la creación de **WebAdminISP**, una aplicación diseñada par
 - **Back-end:** Nest.js, TypeOrm
 - **Base de Datos:** PostgreSQL
 
-## Proyecto Reciente: Sistema de Finanzas
+## Sistema de Finanzas
 
 Este proyecto está diseñado para facilitar la gestión y seguimiento de finanzas personales. Permite a los usuarios registrar ingresos y egresos, realizar un seguimiento de sus gastos, y generar reportes financieros de manera eficiente.
 
