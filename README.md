@@ -6,7 +6,7 @@ Además de mis competencias técnicas, he desarrollado habilidades blandas como 
 
 Estoy muy motivado por finalizar mis estudios en Henry y aplicar mis conocimientos en el mundo real. Mi objetivo a largo plazo es trabajar en grandes empresas que necesiten de mis servicios tecnológicos.
 
-## Proyecto Destacado: WebAdminISP
+## Proyectos Destacados: WebAdminISP y Sistema de Finanzas
 
 He participado en la creación de **WebAdminISP**, una aplicación diseñada para la administración de servicios de Internet. Esta aplicación ofrece una amplia gama de funcionalidades, incluyendo la gestión de usuarios, relevamientos técnicos, asistencias técnicas, gestión de equipos, pasarela de pagos, y envío de facturas y recibos de pago, entre otros.
 
@@ -15,7 +15,16 @@ He participado en la creación de **WebAdminISP**, una aplicación diseñada par
 - **Back-end:** Nest.js, TypeOrm
 - **Base de Datos:** PostgreSQL
 
-Puedes explorar el proyecto aquí: [WebAdminISP](https://github.com/WebAdminISP)
+## Proyecto Reciente: Sistema de Finanzas Personal
+
+### Tecnologías Utilizadas:
+- **Frontend:** React, Tailwind CSS
+- **Backend:** Node.js, Express
+- **Autenticación:** Token JWT
+- **Bases de Datos:** PostgreSQL
+Este proyecto está diseñado para facilitar la gestión y seguimiento de finanzas personales. Permite a los usuarios registrar ingresos y egresos, realizar un seguimiento de sus gastos, y generar reportes financieros de manera eficiente.
+
+Puedes explorar los proyectos aquí: [WebAdminISP](https://github.com/WebAdminISP) y [SistemaFinanzas](https://github.com/joapulga/Proyecto-Final-Henry)
 
 ## Habilidades Técnicas
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js, Redux
