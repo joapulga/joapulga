@@ -15,14 +15,15 @@ He participado en la creación de **WebAdminISP**, una aplicación diseñada par
 - **Back-end:** Nest.js, TypeOrm
 - **Base de Datos:** PostgreSQL
 
-## Proyecto Reciente: Sistema de Finanzas Personal
+## Proyecto Reciente: Sistema de Finanzas
+
+Este proyecto está diseñado para facilitar la gestión y seguimiento de finanzas personales. Permite a los usuarios registrar ingresos y egresos, realizar un seguimiento de sus gastos, y generar reportes financieros de manera eficiente.
 
 ### Tecnologías Utilizadas:
 - **Frontend:** React, Tailwind CSS
 - **Backend:** Node.js, Express
 - **Autenticación:** Token JWT
 - **Bases de Datos:** PostgreSQL
-Este proyecto está diseñado para facilitar la gestión y seguimiento de finanzas personales. Permite a los usuarios registrar ingresos y egresos, realizar un seguimiento de sus gastos, y generar reportes financieros de manera eficiente.
 
 Puedes explorar los proyectos aquí: [WebAdminISP](https://github.com/WebAdminISP) y [SistemaFinanzas](https://github.com/joapulga/Proyecto-Final-Henry)
 
