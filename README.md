@@ -28,7 +28,7 @@ Este proyecto está diseñado para facilitar la gestión y seguimiento de finanz
 Puedes explorar los proyectos aquí: [WebAdminISP](https://github.com/WebAdminISP) y [SistemaFinanzas](https://github.com/joapulga/Proyecto-Final-Henry)
 
 ## Habilidades Técnicas
-- **Frontend:** HTML, CSS, JavaScript, React, Next.js, Redux
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux
 - **Backend:** Node.js, Express
 - **Bases de Datos:** PostgreSQL
 - **Herramientas:** Axios, TypeOrm, Git, Trello
