@@ -1,10 +1,10 @@
 # Sobre Mí
 
-Soy un **Desarrollador Full Stack** con una formación sólida y en constante crecimiento. Comencé mi carrera en programación en 2023 a través de Platzi, donde adquirí una base sólida en **HTML, CSS y JavaScript**. Actualmente, estoy profundizando mis conocimientos en **Henry**, donde estoy mejorando mis habilidades en tecnologías como **React, Node.js, PostgreSQL, Axios y Express**.
+Soy un **Desarrollador Full Stack** con una formación sólida y en constante crecimiento. Comencé mi carrera en programación en 2023 a través de Platzi, donde adquirí una base sólida en **HTML, CSS y JavaScript**. Ademas, finalize  mis estudios en el cursado **Henry**, donde mejore mis habilidades en tecnologías como **HTML, CSS, JavaScript, TypeScript, React, Node.js, PostgreSQL y Express**.
 
 Además de mis competencias técnicas, he desarrollado habilidades blandas como la paciencia, la puntualidad y la organización, que me permiten ser eficiente en la gestión de proyectos. También destaco en comunicación y trabajo en equipo, lo que me permite colaborar en proyectos de alto rendimiento y compartir conocimientos de manera efectiva.
 
-Estoy muy motivado por finalizar mis estudios en Henry y aplicar mis conocimientos en el mundo real. Mi objetivo a largo plazo es trabajar en grandes empresas que necesiten de mis servicios tecnológicos.
+Estoy muy motivado por aplicar mis conocimientos en el mundo real. Mi objetivo a largo plazo es trabajar en grandes empresas que necesiten de mis servicios tecnológicos.
 
 ## Proyectos Destacados: WebAdminISP
 
