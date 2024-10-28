@@ -6,7 +6,7 @@ Además de mis competencias técnicas, he desarrollado habilidades blandas como 
 
 Estoy muy motivado por finalizar mis estudios en Henry y aplicar mis conocimientos en el mundo real. Mi objetivo a largo plazo es trabajar en grandes empresas que necesiten de mis servicios tecnológicos.
 
-## Proyectos Destacados: WebAdminISP y Sistema de Finanzas
+## Proyectos Destacados: WebAdminISP
 
 He participado en la creación de **WebAdminISP**, una aplicación diseñada para la administración de servicios de Internet. Esta aplicación ofrece una amplia gama de funcionalidades, incluyendo la gestión de usuarios, relevamientos técnicos, asistencias técnicas, gestión de equipos, pasarela de pagos, y envío de facturas y recibos de pago, entre otros.
 
